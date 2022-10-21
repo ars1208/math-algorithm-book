@@ -1,3 +1,2 @@
 N = int(input())
-
-print(N+5)
+print(5+N)
